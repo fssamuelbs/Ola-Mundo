@@ -1,2 +1,2 @@
-# Ola-Mundo
-Iniciando no Git - Versionamento Curso em Vídeo
+# Olá, Mundo!
+Iniciando no Git e GitHub - Versionamento Curso em Vídeo
